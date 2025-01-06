@@ -18,8 +18,8 @@ The primary goal of this project is to create a robust business intelligence sol
 **Sales Analytics**
 **Key Objectives:**
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- Develop a Customer Performance Report  [_View Report_ ](https://github.com/Gagan-Singh-1510/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf) to assess revenue by customer segment, providing insights into customer behaviour and trends.
-- Create a Market Performance vs. Target Report [ _View Report_ ](https://github.com/Gagan-Singh-1510/Excel-Sales-and-Finance-Analytics/blob/main/Market%20Performance%20Vs%20Target%20Report.pdf)to analyze how different regions align with their sales targets.
+- Developed Customer Performance Report  [_View Report_ ](https://github.com/Gagan-Singh-1510/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf) to assess revenue by customer segment, providing insights into customer behaviour and trends.
+- Created Market Performance vs. Target Report [ _View Report_ ](https://github.com/Gagan-Singh-1510/Excel-Sales-and-Finance-Analytics/blob/main/Market%20Performance%20Vs%20Target%20Report.pdf)to analyze how different regions align with their sales targets.
 
 **Purpose of Sales Analytics:**
 --------------------------------------------------------------------------------------------------------------------------------------------
@@ -40,8 +40,8 @@ Sales analytics offers valuable insights into sales patterns and performance, al
 **Financial Analytics**
 **Key Objectives:**
 --------------------------------------------------------------------------------------------------------------------------------------------
-- Develop Profit & Loss (P&L) Statement by Fiscal Year [_View Report_](https://github.com/Gagan-Singh-1510/Excel-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20Statement%20By%20Fiscal%20Years.pdf) to track financial performance and identify year-over-year trends.
-- Create P&L Statement by Month  [_View Report_](https://github.com/Gagan-Singh-1510/Excel-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20Statement%20By%20Months.pdf) to monitor monthly financial progress and make timely adjustments.
+- Build Profit & Loss (P&L) Statement by Fiscal Year [_View Report_](https://github.com/Gagan-Singh-1510/Excel-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20Statement%20By%20Fiscal%20Years.pdf) to track financial performance and identify year-over-year trends.
+- Build P&L Statement by Month  [_View Report_](https://github.com/Gagan-Singh-1510/Excel-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20Statement%20By%20Months.pdf) to monitor monthly financial progress and make timely adjustments.
 - Generate P&L Statement by Market [_View Report_](https://github.com/Gagan-Singh-1510/Excel-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20Statement%20By%20Markets.pdf) to evaluate profitability across different geographic regions, helping optimize market strategies.
 
 **Purpose of Financial Analytics:**
